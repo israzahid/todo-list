@@ -8,7 +8,7 @@ Skills Used:
 
 How to use:
 
-The (web app)[https://obscure-forest-92343.herokuapp.com/]
+The [web app](https://obscure-forest-92343.herokuapp.com/)
 - The database here is connected to the cloud and there is no user specific functionality (yet), please delete any changes you've made when done :)
 
 To run locally:
