@@ -6,5 +6,5 @@ Skills Used:
 - Node, Express
 
 How to use:
-- Once downloaded, run `npm install express` and `npm install body-parser`
+- Once downloaded, run `npm i`
 - Launch the site on local host
